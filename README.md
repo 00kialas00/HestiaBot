@@ -1,0 +1,2 @@
+# HestiaBot
+TestBot for discord
